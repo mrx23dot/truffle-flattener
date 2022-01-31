@@ -16,7 +16,10 @@
     "smart-contracts"
   ],
   "homepage": "https://github.com/nomiclabs/truffle-flattener",
-  "repository": "github:nomiclabs/truffle-flattener",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomiclabs/truffle-flattener.git"
+  },
   "author": "Nomic Labs SRL",
   "license": "MIT",
   "dependencies": {
@@ -31,5 +34,12 @@
     "mocha": "^7.0.0",
     "openzeppelin-solidity": "2.1.2",
     "prettier": "^1.16.4"
+  },
+  "bugs": {
+    "url": "https://github.com/nomiclabs/truffle-flattener/issues"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
   }
 }
