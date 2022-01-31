@@ -1,5 +1,5 @@
 {
-  "name": "truffle-flattener",
+  "name": "truffle-flattener2",
   "version": "1.6.0",
   "description": "Truffle Flattener concats solidity files developed under Truffle with all of their dependencies",
   "bin": {
