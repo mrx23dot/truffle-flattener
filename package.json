@@ -1,5 +1,5 @@
 {
-  "name": "truffle-flattener2",
+  "name": "truffle-flattener",
   "version": "1.6.0",
   "description": "Truffle Flattener concats solidity files developed under Truffle with all of their dependencies",
   "bin": {
@@ -15,11 +15,8 @@
     "truffle",
     "smart-contracts"
   ],
-  "homepage": "https://github.com/nomiclabs/truffle-flattener",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nomiclabs/truffle-flattener.git"
-  },
+  "homepage": "https://github.com/mrx23dot/truffle-flattener",
+  "repository": "github:nomiclabs/truffle-flattener",
   "author": "Nomic Labs SRL",
   "license": "MIT",
   "dependencies": {
